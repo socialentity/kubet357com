@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Nhà cái Kubet - kubet357.com - là tụ điểm giải trí ăn khách nhất ở thời điểm hiện tại với kho trò chơi siêu khủng
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Nhà cái Kubet <https://kubet357.com/>`_ là tụ điểm giải trí ăn khách nhất ở thời điểm hiện tại với kho trò chơi siêu khủng bao gồm Thể Thao, Casino, Bắn Cá, Đá Gà,... Bên cạnh đó, sân chơi còn mang đến nhiều deal khuyến mãi khủng cược thủ không nên bỏ lỡ. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hê:
 
-.. note::
+Địa chỉ: 97 Đ.Bình Tây, Phường 1, Quận 6, Hồ Chí Minh, Việt Nam
 
-   This project is under active development.
+Phone: 0974888218
 
-Contents
---------
+Email: info@kubet357.com
 
-.. toctree::
+Website: https://kubet357.com/
 
-   usage
-   api
+#kubet #kubet357 #nhacaikubet #trangchukubet #kubetcasino
